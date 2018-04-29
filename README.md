@@ -2,6 +2,7 @@
 
 * Install MODX Revolution
 
+
 * Upload this package into the `Extras` directory in the root of site
 
 * You need to rename it to `anyOtherName` your package, so enter into SSH console and run
